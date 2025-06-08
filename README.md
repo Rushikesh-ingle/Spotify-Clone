@@ -15,10 +15,6 @@ This is a simple **Spotify Clone** built using only **HTML** and **CSS**, replic
 
 ---
 
-## 📁 Folder Structure
-
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5** – for creating the structure of the web page.

@@ -27,26 +27,12 @@ This is a simple **Spotify Clone** built using only **HTML** and **CSS**, replic
 
 ---
 
-## 📸 Screenshots
-
-> *Add screenshots here once you have them available. Example:*
-> ![Home Page](assets/screenshot-home.png)
-
 ---
 
 ## 📱 Responsive Design
 
 The layout is mobile-friendly and adjusts gracefully across devices using media queries in CSS.
 
----
 
-## ⚙️ How to Run the Project
-
-1. Clone this repository or download the ZIP.
-2. Open the `index.html` file in your browser.
-3. Enjoy the UI!
-
-```bash
-git clone https://github.com/yourusername/spotify-clone-html-css.git
 
 

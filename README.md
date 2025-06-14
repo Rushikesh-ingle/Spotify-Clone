@@ -29,12 +29,5 @@ This is a simple **Spotify Clone** built using only **HTML** and **CSS**, replic
 
 The layout is mobile-friendly and adjusts gracefully across devices using media queries in CSS.
 
-## output
-
-"C:\Users\ingle\Videos\Captures\Spotify - Web Player_ Music for everyone - Personal - Microsoft​ Edge 6_14_2025 10_44_26 PM.png"
-
-
-
-
 
 
